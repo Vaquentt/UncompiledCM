@@ -1,2 +1,2 @@
-# UncompiledVaquent-
-External Combat Master Cheat
+# UncompiledCM
+External Combat Master Cheats
