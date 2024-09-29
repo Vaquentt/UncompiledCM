@@ -11,3 +11,4 @@ External Combat Master Cheats
 6. Infinite Health (health)
 7. Freeze Other Team's Score (freezered)
 
+(https://github.com/Vaquentt/UncompiledCM/blob/main/review.mp4)
